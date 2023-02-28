@@ -26,7 +26,7 @@ The project consists of a single HTML file `index.html`, a CSS file `style.css`,
 
 1. Clone the repository using the following command:
 
-git clone https://github.com/your-username/testimonial-grid.git
+git clone https://github.com/thekarthikr/TestimonialsGrid.git
 
 
 Install dependencies
