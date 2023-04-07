@@ -2,7 +2,7 @@
 
 This is a responsive testimonial grid project created using HTML and Tailwind CSS. It is a useful project for practicing grid property in CSS.
 
-![Testimonial Grid Preview](./images/testimonial-grid-preview.png)
+
 
 ## Project Details
 
